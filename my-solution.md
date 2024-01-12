@@ -3,6 +3,7 @@
 Paste your solution to Problem 1 between the back ticks below.
 
 ```
+  462  git push
   463  git clone https://github.com/AbdelSayedahmed/lab-intro-to-command-line.git
   464  cd lab-intro-to-command-line
   465  code .
